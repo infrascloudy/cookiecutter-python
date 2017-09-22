@@ -13,7 +13,7 @@ Use it now
 ----------
 ::
 
-  $ pip install cookiecutter
-  $ cookiecutter https://github.com/InfrasCloudy/cookiecutter-python.git
+    $ pip install cookiecutter
+    $ cookiecutter https://github.com/InfrasCloudy/cookiecutter-python.git
 
 You will be asked about your basic info (name, project name, app name, etc.). This info will be used in your new project.
